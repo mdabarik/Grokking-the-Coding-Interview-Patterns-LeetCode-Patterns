@@ -5,7 +5,7 @@ This course is divided into 4 parts, designed so that students complete one part
 
 ---
 
-## PART 1 — Foundations & Core Patterns
+## PART 1 — Foundations & Core Patterns (Beginner friendly, confidence build করবে)
 
 ### Warmup
 1. Two Sum
@@ -62,7 +62,7 @@ This course is divided into 4 parts, designed so that students complete one part
 
 ---
 
-## PART 2 — Linked Lists, Stacks & Trees
+## PART 2 — Linked Lists, Stacks & Trees (Core data structures, interview এ সবচেয়ে বেশি আসে)
 
 ### Floyd's Cycle Detection
 1. Happy Number
@@ -129,7 +129,7 @@ This course is divided into 4 parts, designed so that students complete one part
 
 ---
 
-## PART 3 — Graphs, Heaps & Advanced Patterns
+## PART 3 — Graphs, Heaps & Advanced Patterns (Intermediate-Advanced, এখানে এলে student আগ্রহী থাকবে)
 
 ### Graphs
 1. Graph Traversal - DFS
@@ -202,7 +202,7 @@ This course is divided into 4 parts, designed so that students complete one part
 
 ---
 
-## PART 4 — Expert Level: DP, Backtracking & System Patterns
+## PART 4 — Expert Level: DP, Backtracking & System Patterns (Hard problems, এই part শেষ করলে FAANG ready)
 
 ### Subsets
 1. Subsets
